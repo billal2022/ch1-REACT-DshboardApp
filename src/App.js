@@ -84,7 +84,7 @@ const App = () => {
 
               <Routes>
                 {/* dashboard  */}
-                <Route path="/" element={<Ecommerce />} />
+                <Route path="/ch1-REACT-DshboardApp" element={<Ecommerce />} />
                 <Route path="/ecommerce" element={<Ecommerce />} />
 
                 {/* pages  */}
